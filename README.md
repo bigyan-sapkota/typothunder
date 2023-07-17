@@ -1,6 +1,6 @@
 # typothunder
 
-typothunder is a an Realtime Multiplayer Typeracing Platform.
+typothunder is a Realtime Multiplayer Typeracing Platform.
 
 ## Live Demo
 
